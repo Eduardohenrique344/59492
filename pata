@@ -17,12 +17,69 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UFT-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EducaFlix</title>
+    <style>
+BODY{
+    margin:0
+    font-family: Arial,sans-serif;
+    background-color: #000033;
+         color:white;
+    }
+    header{
+    background-color: navy;
+    padding: 20px;
+    text-aling: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+.banner{   
+    banckground-color: darkred;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.banner h2 {
+    color: cyan;
+    font-size: 1.8em;
+    }
+    .videos{
+        background-color: navy;
+        padding: 20px;
+    }
+    <style>
+ </head>
+ <body>
+    <header>
+        Eduflix
+    </header>
 
+    <senction class="banner">
+    </div>
+    <iframe width="400"height="225"
+src="video"
+    title="Videos Principal" allowfullscreen></inframe
+</section>
 
-
-
-
-
-
+<section class="vidoes"
+    <h2>Videos recomendados</h2>
+    <div class="vieos-grid">
+      <inframe windth="250" height="140"
+src="video" title="Vídeo 1"></iframe>
+<iframe width="250" height="140"
+srcc="video" title="Videos 2"></iframe>
+<iframe width="250" heigth="140" src="link"
+title="videos 3"></iframe>
+    </iframe width="250" height="140"
+scr="video" title="Video 4 "></iframe>
+    </div>
+    </section>
+</body>
+</html>
 
 
